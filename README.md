@@ -1,6 +1,6 @@
 # Audio Transcription with Whisper
 
-A Python application that transcribes OGG audio files to text using OpenAI's Whisper model locally.
+This project serves as a building block for processing Telegram voice messages to text. Other projects will use this code to then provide the text output to LLMs to make aware Telegram Agents. This python application transcribes OGG audio files to text using OpenAI's Whisper model locally.
 
 ## 🎯 Overview
 
