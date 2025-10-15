@@ -52,14 +52,7 @@ Verify FFmpeg installation:
 ffmpeg -version
 ```
 
-### Step 3: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/audio-transcription-whisper.git
-cd audio-transcription-whisper
-```
-
-### Step 4: Set Up Python Environment
+### Step 3: Set Up Python Environment
 
 Create and activate a virtual environment:
 
@@ -74,7 +67,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### Step 5: Install Python Dependencies
+### Step 4: Install Python Dependencies
 
 ```bash
 pip install -r requirements.txt
